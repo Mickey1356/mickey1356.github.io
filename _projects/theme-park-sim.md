@@ -1,5 +1,5 @@
 ---
-title: Theme Park Simulator
+title: Theme Park Sim
 header:
   teaser: /assets/images/teasers/sim-proj.png
 excerpt: SUTD 40.015 Project
@@ -13,7 +13,7 @@ Our team decided to build a theme-park simulator and analyse how the park layout
 
 More info about the project can be found on its corresponding [Github page](https://github.com/Mickey1356/sim_project).
 
-If you want to see it in action, you can visit [this page](mickey1356.github.io/sim_project) for a hands-on demo, or watch this [video](https://www.youtube.com/watch?v=8OWnYG8p9ls).
+If you want to see it in action, you can visit [this page](https://mickey1356.github.io/sim_project) for a hands-on demo, or watch this [video](https://www.youtube.com/watch?v=8OWnYG8p9ls).
 
 Oh yeah, this project was built using [p5.js](https://p5js.org/).
 

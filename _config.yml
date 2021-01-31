@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 'Jeremy Chew'
+title: '@mickey1356'
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Hello! Welcome to my site where I (occasionally) post things!
 # twitter_username: username
 github_username: mickey1356
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Jeremy Chew"
   avatar : "/assets/images/profile_pic.jpg"
-  bio    : "Currently an undergraduate student at SUTD"
+  bio    : "Currently still an undergraduate student"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -96,7 +96,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      # read_time: true
       comments: true
       share: true
       related: true
