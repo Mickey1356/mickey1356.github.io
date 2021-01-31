@@ -12,4 +12,4 @@ Well, one fine day in 2021, when I was feeling especially bored, I thought, why 
 
 So, here we are!
 
-To avoid overloading this site, I've created a Google Docs to collate the reviews. You can view my thoughts [here](https://docs.google.com/document/d/1qNxuWxCy0jK7LbTek1yxxy0Z_1G3Ka4LVXFWPp3_hcw/edit?usp=sharing).
+To avoid overloading this site, I'm using itch.io's Collections to maintain this list. You can view my thoughs [here](https://itch.io/c/1383711/racial-justice-bundle-a-play-through)!
