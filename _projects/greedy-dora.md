@@ -14,6 +14,6 @@ The project was run on a Mojo FPGA development board, and the game logic was pro
 The code is found on the corresponding [Github page](https://github.com/Mickey1356/50.002-1D-Project), but it is pretty sparse and uninspiring. Maybe the showcase [video](https://www.youtube.com/watch?v=xlRRnP96CLI) would be better, or the [logbook](https://docs.google.com/document/d/1hv2qKLyltzZX0CgbW2B89OBdlEvEwer7jJM_EUT-YsA/edit?usp=sharing) where I documented my journey through 50.002 (for at least the major projects).
 
 Anyway, here are some pictures:
-![50.002-pic1](/assets/images/50002-pic1.png)
+![50.002-pic1](/assets/images/50002-pic1.PNG)
 ![50.002-pic2](/assets/images/50002-pic2.jpg)
-![50.002-pic3](/assets/images/50002-pic3.png)
+![50.002-pic3](/assets/images/50002-pic3.PNG)

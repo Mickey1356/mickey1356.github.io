@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Jeremy Chew"
-  avatar : "/assets/images/profile_pic.jpg"
+  avatar : "/assets/images/profile_pic.JPG"
   bio    : "Currently still an undergraduate student"
   links:
     - label: "Website"
