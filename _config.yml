@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Jeremy Chew"
   avatar : "/assets/images/profile_pic.JPG"
-  bio    : "Currently still an undergraduate student"
+  bio    : "Working at NetVirta, Inc."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

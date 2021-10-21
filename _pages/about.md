@@ -5,7 +5,7 @@ title: "About"
 
 Hi and welcome to my site!
 
-Currently, I am an undergraduate student in [SUTD](https://www.sutd.edu.sg) with a focus track in Artificial Intelligence and Cybersecurity.
+I graduated from [SUTD](https://www.sutd.edu.sg).
 
 If you want to see what work I've done (or what I've been working on), check out my [projects](/projects).
 
