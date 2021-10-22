@@ -5,7 +5,7 @@ title: "About"
 
 Hi and welcome to my site!
 
-I graduated from [SUTD](https://www.sutd.edu.sg).
+I graduated from [SUTD](https://www.sutd.edu.sg), and am currently working as a Research Engineer at NetVirta, Inc.
 
 If you want to see what work I've done (or what I've been working on), check out my [projects](/projects).
 

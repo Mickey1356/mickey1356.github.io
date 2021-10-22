@@ -8,12 +8,10 @@ author_profile: true
 
 Hi and welcome to my site!
 
-Currently, I am an undergraduate student in [SUTD](https://www.sutd.edu.sg) with a focus track in Artificial
-Intelligence and Cybersecurity.
+I graduated from [SUTD](https://www.sutd.edu.sg), and am currently working as a Research Engineer at [NetVirta](https://www.netvirta.com/).
 
-If you want to see what work I've done, check out my [projects](/projects).
+If you want to see what work I've done (or what I've been working on), check out my [projects](/projects).
 
 Otherwise, you can check out my [posts](/posts), or whatever other miscellaneous thing I'm up to in [Others](/others).
 
-I'm not super used to how Jekyll works though, so there might be issues here and there. Feel free to contact me if you
-spot anything!
+I'm not super used to how Jekyll works though, so there might be issues here and there. Feel free to contact me if you spot anything!
