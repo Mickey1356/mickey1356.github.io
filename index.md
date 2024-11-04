@@ -6,12 +6,14 @@ layout: single
 author_profile: true
 ---
 
-Hi and welcome to my site!
+Hello!
 
-I graduated from [SUTD](https://www.sutd.edu.sg), and am currently working as a Research Engineer at [NetVirta](https://www.netvirta.com/).
+I am currently a PhD student at the [Computational Design Lab](https://cdl.ethz.ch/) at ETH Zürich, under the supervision of [Prof. Bernd Bickel](http://berndbickel.com/about-me).
 
-If you want to see what work I've done (or what I've been working on), check out my [projects](/projects).
+My research is currently in the intersection of acoustics and computational fabrication, where I seek to design objects that are visually interesting whilst still maintaining certain acoustical properties.
 
-Otherwise, you can check out my [posts](/posts), or whatever other miscellaneous thing I'm up to in [Others](/others).
+Before moving to Zürich, I spent about a year as a PhD student at the [Institute of Science and Technology, Austria](https://ist.ac.at/en/home/) where I was also under the supervision of Prof. Bernd.
 
-I'm not super used to how Jekyll works though, so there might be issues here and there. Feel free to contact me if you spot anything!
+Previously, I graduated from [SUTD](https://www.sutd.edu.sg), and was working as a Research Engineer for 1 year at [NetVirta](https://www.netvirta.com/).
+
+If you want to see what work I've done, check out my [projects](/projects).

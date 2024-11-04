@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Jeremy Chew"
   avatar : "/assets/images/profile_pic.JPG"
-  bio    : "Research Engineer at NetVirta"
+  bio    : "PhD student at ETH Zürich"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
